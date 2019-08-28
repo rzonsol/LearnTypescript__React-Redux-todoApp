@@ -1,1 +1,5 @@
-# LearnTypescript__React-Redux-todoApp
+# LearnTypescript\_\_React-Redux-todoApp
+
+## Configuration
+
+- npx create-react-app rrts --typescript
